@@ -2,7 +2,7 @@
 
 Curated bundle of my COP3502 assignments and small projects. Each subfolder has its own README with what it does, how to run it, and what I learned. Highlighted first: the team-built final project.
 
-- `final_project_sudoku/` – Pygame Sudoku with board/cell model and puzzle generator. Led a small team: split gameplay UI, board logic, and generator workstreams; integrated and tested together.
+- `0_final_project_sudoku/` – Pygame Sudoku with board/cell model and puzzle generator. Led a small team: split gameplay UI, board logic, and generator workstreams; integrated and tested together.
 - `blackjack_p1/` – Intro blackjack sim using provided PRNG; tracks win/loss stats.
 - `blackjack_casino/` – Enhanced blackjack with multi-deck shoe, soft-17 dealer logic, and statistics.
 - `rle_image_encoder/` – Run-length encoding CLI with hex/RLE conversions and console image viewer.
