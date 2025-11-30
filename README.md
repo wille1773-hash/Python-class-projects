@@ -1,4 +1,4 @@
-# COP3502C Projects
+# COP3502C Python Projects
 
 Curated bundle of my COP3502 assignments and small projects. Each subfolder has its own README with what it does, how to run it, and what I learned. Highlighted first: the team-built final project.
 
